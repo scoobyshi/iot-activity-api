@@ -1,0 +1,15 @@
+# Node Modules
+node_modules
+
+# Logging
+*.log
+
+# VS Code
+.vscode
+
+# Coverage
+coverage
+
+# TypeScript Dist
+dist
+.DS_Store
